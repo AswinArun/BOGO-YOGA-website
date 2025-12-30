@@ -105,13 +105,14 @@ const Contact: React.FC = () => {
                                         <p className="text-brand-text-dark/80 transition-colors duration-300 group-hover:text-brand-green break-words">+974-71718108</p>
                                     </div>
                                 </a>
-                                <a href="mailto:bogoyogaqatar@gmail.com" className="flex items-start p-4 rounded-lg transition-all duration-300 hover:bg-brand-gold/10 group">
+                                <a href="mailto:info@bogofitness.com" className="flex items-start p-4 rounded-lg transition-all duration-300 hover:bg-brand-gold/10 group">
                                      <div className="p-3 bg-brand-gold/10 rounded-full text-brand-gold transition-colors duration-300 group-hover:text-brand-green flex-shrink-0">
                                         <MailIcon />
                                     </div>
                                     <div className="ml-4">
                                         <p className="font-semibold font-playfair text-lg text-brand-green mb-1">Email</p>
-                                        <p className="text-brand-text-dark/80 transition-colors duration-300 group-hover:text-brand-green break-words">bogoyogaqatar@gmail.com</p>
+                                        <p className="text-brand-text-dark/80 transition-colors duration-300 group-hover:text-brand-green break-words">info@bogofitness.com</p>
+                                        <p className="text-brand-text-dark/80 transition-colors duration-300 group-hover:text-brand-green break-words">connect@bogofitness.com</p>
                                     </div>
                                 </a>
                             </div>
