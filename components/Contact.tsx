@@ -27,8 +27,8 @@ const Contact: React.FC = () => {
                     name: formData.name,
                     email: formData.email,
                     message: formData.message,
-                    from_name: 'BOGO FITNESS Website',
-                    subject: 'New Contact Form Submission from BOGO FITNESS',
+                    from_name: 'Bogo Fitness Website',
+                    subject: 'New Contact Form Submission from Bogo Fitness',
                 }),
             });
 
@@ -125,7 +125,7 @@ const Contact: React.FC = () => {
                                 allowFullScreen={false}
                                 loading="lazy"
                                 referrerPolicy="no-referrer-when-downgrade"
-                                title="BOGO FITNESS Location"
+                                title="Bogo Fitness Location"
                             ></iframe>
                         </div>
                     </AnimateOnScroll>

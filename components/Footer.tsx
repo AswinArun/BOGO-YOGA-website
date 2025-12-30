@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
                 <div className="flex flex-col md:flex-row justify-between items-center md:items-start gap-10 text-center md:text-left">
                     {/* Logo and Social */}
                     <div className="flex flex-col items-center md:items-start">
-                        <a href="#home" aria-label="BOGO FITNESS Home" className="mb-4">
+                        <a href="#home" aria-label="Bogo Fitness Home" className="mb-4">
                            <FooterLogo />
                         </a>
                         <p className="text-brand-text-light/90 mb-6">Balance. Breathe. Become.</p>
@@ -37,7 +37,7 @@ const Footer: React.FC = () => {
                 </div>
 
                 <div className="mt-12 border-t border-white/10 pt-6 text-center text-brand-text-light/80">
-                    <p>&copy; {new Date().getFullYear()} BOGO FITNESS. A Sanctuary for Wellness. All Rights Reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Bogo Fitness. A Sanctuary for Wellness. All Rights Reserved.</p>
                 </div>
             </div>
         </footer>

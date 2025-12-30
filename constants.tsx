@@ -56,7 +56,7 @@ export const WHY_JOIN_US_POINTS: WhyJoinUsPoint[] = [
 ];
 
 export const TESTIMONIALS_DATA: Testimonial[] = [
-    { quote: "BOGO FITNESS is an oasis of calm. The grounding energy of the forest green studio and the golden accents make every session feel like a luxury retreat. It's my sanctuary.", name: "Aisha Al-Thani", role: "Art Curator", image: "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=1599&auto=format&fit=crop" },
+    { quote: "Bogo Fitness is an oasis of calm. The grounding energy of the forest green studio and the golden accents make every session feel like a luxury retreat. It's my sanctuary.", name: "Aisha Al-Thani", role: "Art Curator", image: "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=1599&auto=format&fit=crop" },
     { quote: "The instructors here are masters of their craft. They guide you with a perfect balance of strength and serenity. The black-themed power yoga room is incredibly motivating.", name: "Hassan Al-Jaber", role: "Architect", image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1587&auto=format&fit=crop" },
     { quote: "I've never felt more balanced. The harmony of the natural decor and the sophisticated ambiance is something truly special. It's a testament to refined wellness.", name: "Fatima Al-Kuwari", role: "Entrepreneur", image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1587&auto=format&fit=crop" },
     { quote: "The desert gold accents and the warm beige tones of the studio create an incredibly uplifting atmosphere. It feels both earthy and elegant, a rare combination.", name: "David Chen", role: "Diplomat", image: "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?q=80&w=1780&auto=format&fit=crop" },

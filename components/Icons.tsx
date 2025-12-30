@@ -1,5 +1,5 @@
 import React from 'react';
-import logoSvg from './src/images/logo/bogayoga_logo.svg';
+import logoSvg from './src/images/logo/bogofitness_logo.svg';
 
 const iconProps = {
     className: "w-6 h-6",
@@ -8,7 +8,7 @@ const iconProps = {
 export const BogoLogo = ({ className }: { className?: string }) => (
     <div className={`font-playfair text-xl md:text-2xl font-semibold tracking-wide ${className}`}>
         <span className="text-brand-gold">BOGO</span>
-        <span className="text-brand-green"> YOGA</span>
+        <span className="text-brand-green"> FITNESS</span>
     </div>
 );
 

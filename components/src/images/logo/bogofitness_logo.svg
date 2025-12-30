@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#CBA135"/>
+      <stop offset="100%" style="stop-color:#F1E432"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- BOGO text -->
+  <text x="20" y="75" font-family="Georgia, serif" font-size="60" font-weight="bold" fill="#006f3f">BOGO</text>
+  
+  <!-- FITNESS text -->
+  <text x="195" y="75" font-family="Georgia, serif" font-size="60" font-weight="bold" fill="url(#goldGradient)">FITNESS</text>
+  
+  <!-- Decorative line -->
+  <rect x="20" y="90" width="360" height="3" fill="#006f3f" rx="1.5"/>
+  
+  <!-- Tagline -->
+  <text x="200" y="110" font-family="Arial, sans-serif" font-size="12" fill="#006f3f" text-anchor="middle" letter-spacing="3">BALANCE • BREATHE • BECOME</text>
+</svg>
